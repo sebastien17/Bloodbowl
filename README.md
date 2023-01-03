@@ -3,6 +3,7 @@
 * General
   * [Empire Oublié](http://empireoublie.free.fr/)
   * [FUMBBL](https://fumbbl.com/)
+  * [The NAF](https://www.thenaf.net/)
   * [Warhammer Community FAQ](https://www.warhammer-community.com/faqs/?=#blood-bowl)
   * [Warhammer Community Downloads](https://www.warhammer-community.com/downloads/#blood-bowl)
   * [Interested in Blood Bowl and No Idea Where to Start? (Reddit)](https://www.reddit.com/r/bloodbowl/comments/d86f0a/interested_in_blood_bowl_and_no_idea_where_to/)
@@ -19,6 +20,7 @@
   * [BB2 pictures](http://download.cyanide-studio.com/images-bb2/)
   * [Botbowl AI](https://github.com/njustesen/botbowl)
   * [Goblin Spy](https://www.mordrek.com/gspy/)
+  * [BB Stats](https://www.mordrek.com/BB2Stats/)
   * [BB Roster](https://bbroster.com/)
 * Lore
   * [Wikipédia Warhammer](https://fr.wikipedia.org/wiki/Warhammer)
