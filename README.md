@@ -15,4 +15,4 @@
   * [Wikipédia Warhammer](https://fr.wikipedia.org/wiki/Warhammer)
 * Vidéo
   * [cKnoor Youtube Guide](https://www.youtube.com/watch?v=WrU7dU1HSds&list=PLSJ6kwwJv4Nq12RPHARCNSpIJ7162MANH)
-  
+  * [ikeett Gaming](https://www.youtube.com/@ikeettgaming/featured)
