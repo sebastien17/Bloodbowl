@@ -1,0 +1,11 @@
+# Bloodbowl
+* [Empire Oublié](http://empireoublie.free.fr/)
+* [Warhammer Community FAQ](https://www.warhammer-community.com/faqs/?=#blood-bowl)
+* [Warhammer Community Downloads](https://www.warhammer-community.com/downloads/#blood-bowl)
+* [Blood Bowl Tactics](https://bbtactics.com/)
+* [Samba Action Calculator](http://www.elyoukey.com/sac/)
+* [Wikipédia Warhammer](https://fr.wikipedia.org/wiki/Warhammer)
+* [Challonge Tournoi Management](https://challonge.com/fr)
+* [LRB6 Playbook](http://www.plasmoids.dk/bbowl/LRB6Playbooks.htm)
+* [FUMBBL](https://fumbbl.com/)
+* [FUMBBL Race Strategies](https://fumbbl.com/help:BB20RaceStrategy)
