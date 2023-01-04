@@ -24,6 +24,7 @@
   * [BB Roster](https://bbroster.com/)
 * Lore
   * [Wikipédia Warhammer](https://fr.wikipedia.org/wiki/Warhammer)
+  * [Nufflepedia](https://blood-bowl.fandom.com/wiki/Blood_Bowl_Wiki)
 * Video
   * [cKnoor Youtube Guide (YT)](https://www.youtube.com/watch?v=WrU7dU1HSds&list=PLSJ6kwwJv4Nq12RPHARCNSpIJ7162MANH)
   * [Bonehead (YT)](https://www.youtube.com/@BoneheadPodcast)
