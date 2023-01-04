@@ -8,7 +8,8 @@
   * [Warhammer Community Downloads](https://www.warhammer-community.com/downloads/#blood-bowl)
   * [Interested in Blood Bowl and No Idea Where to Start? (Reddit)](https://www.reddit.com/r/bloodbowl/comments/d86f0a/interested_in_blood_bowl_and_no_idea_where_to/)
   * [Ligue française de Blood Bowl](https://ligue-bloodbowl.fr/)
-  * [tackle Zone](http://thetacklezone.net/)
+  * [Tackle Zone](http://thetacklezone.net/)
+  * [Nuffle Zone](https://nufflezone.com/)
 * Strategies
   * [FUMBBL Race Strategies](https://fumbbl.com/help:BB20RaceStrategy)
   * [Blood Bowl Tactics](https://bbtactics.com/)
