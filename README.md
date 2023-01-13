@@ -23,6 +23,7 @@
   * [Goblin Spy](https://www.mordrek.com/gspy/)
   * [BB Stats](https://www.mordrek.com/BB2Stats/)
   * [BB Roster](https://bbroster.com/)
+  * [Tourplay](https://tourplay.net/)
 * Lore
   * [Wikipédia Warhammer](https://fr.wikipedia.org/wiki/Warhammer)
   * [Nufflepedia](https://blood-bowl.fandom.com/wiki/Blood_Bowl_Wiki)
