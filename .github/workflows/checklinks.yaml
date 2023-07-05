@@ -16,11 +16,11 @@ jobs:
     strategy:
       fail-fast: false
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby&/setup-ruby@v1
         with:
-          ruby-version: 2.6.x
+          ruby-version: '3.0'
       - name: Setup Rubygems, Bundler, jekyll
         run: | 
           gem update --system --no-document
