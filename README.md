@@ -25,6 +25,7 @@
   * [BB Stats](https://www.mordrek.com/BB2Stats/)
   * [BB Roster](https://bbroster.com/)
   * [Tourplay](https://tourplay.net/)
+  * [Fantasy and Blood Bowl Name Generator](https://snowwhitehills.blogspot.com/p/fantasy-and-blood-bowl-name-generator.html)
 * Lore
   * [Wikipédia Warhammer](https://fr.wikipedia.org/wiki/Warhammer)
   * [Nufflepedia](https://blood-bowl.fandom.com/wiki/Blood_Bowl_Wiki)
