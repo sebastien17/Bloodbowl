@@ -4,6 +4,7 @@
   * [Empire Oublié](http://empireoublie.free.fr/)
   * [FUMBBL](https://fumbbl.com/)
   * [The NAF](https://www.thenaf.net/)
+  * [NAF Content](https://www.thenaf.net/wp-content/uploads/)
   * [Warhammer Community FAQ](https://www.warhammer-community.com/faqs/?=#blood-bowl)
   * [Warhammer Community Downloads](https://www.warhammer-community.com/downloads/#blood-bowl)
   * [Interested in Blood Bowl and No Idea Where to Start? (Reddit)](https://www.reddit.com/r/bloodbowl/comments/d86f0a/interested_in_blood_bowl_and_no_idea_where_to/)
