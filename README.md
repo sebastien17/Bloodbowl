@@ -37,5 +37,6 @@
 * Minies
   * [Comixininos](https://www.comixininos.com/)
   * [Forge World](https://www.forgeworld.co.uk/)
+  * [ChiCast Prod](https://www.etsy.com/fr/shop/ChicastProd)
 * League
   * [Orcs And Azes](http://www.orknazes.com/)  
