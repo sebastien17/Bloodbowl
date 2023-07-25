@@ -38,5 +38,6 @@
   * [Comixininos](https://www.comixininos.com/)
   * [Forge World](https://www.forgeworld.co.uk/)
   * [ChiCast Prod](https://www.etsy.com/fr/shop/ChicastProd)
+  * [Torchlight](https://www.myminifactory.com/users/TorchlightModels)
 * League
   * [Orcs And Azes](http://www.orknazes.com/)  
