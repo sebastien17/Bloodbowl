@@ -14,6 +14,7 @@
   * [GrumBBL](https://grumbbl.co.uk/)
 * Strategies
   * [FUMBBL Race Strategies](https://fumbbl.com/help:BB20RaceStrategy)
+  * [FUMBBL Strategy](https://fumbbl.com/help:Strategy)
   * [Blood Bowl Tactics](https://bbtactics.com/)
   * [LRB6 Playbook](http://www.plasmoids.dk/bbowl/LRB6Playbooks.htm)
   * [Bloodbowl Strategies](https://bloodbowlstrategies.com/fr/)
